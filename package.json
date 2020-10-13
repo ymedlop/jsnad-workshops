@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "async-you": "async-you",
+    "learnyounode": "learnyounode",
+    "promise-it-wont-hurt": "promise-it-wont-hurt",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
