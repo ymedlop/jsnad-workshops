@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "async-you": "async-you",
     "verify": "async-you verify",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
