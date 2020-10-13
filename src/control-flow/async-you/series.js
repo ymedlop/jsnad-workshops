@@ -22,7 +22,6 @@
    » For help run: async-you help        
    */
 
-const fs = require('fs');
 const http = require('http');
 const async = require('async');
 
