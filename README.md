@@ -1,5 +1,7 @@
 # jsnad-workshops
 
+Preparing myself for for the NodeJS certification exam - Application Developer (JSNAD).
+
 ## Installation
 
 1. Install [Node.js](http://nodejs.org/)
