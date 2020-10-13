@@ -23,7 +23,6 @@ async.waterfall(
         },
         (url, cb) => {
             let result = '';
-
             http.get(url, res => {
                 res.on('data', chunk => result += chunk.toString());
                 res.on('end', () => cb(null, result));
