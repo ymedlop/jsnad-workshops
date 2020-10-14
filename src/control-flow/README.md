@@ -1,6 +1,9 @@
-# Examples:
+# Managing asynchronous operations and control flow abstractions
+Promises are used for control flow, and to handle errors when executing asynchronous code.
 
-## async-you
+## Examples:
+
+### async-you
 
 Learn to use the popular package [async](https://github.com/caolan/async) via this interactive workshop.
 
