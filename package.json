@@ -22,6 +22,7 @@
   "dependencies": {
     "@workshoppers/scope-chains-closures": "^1.0.5",
     "async-you": "^2.0.0",
+    "bug-clinic": "^1.1.6",
     "concat-stream": "^2.0.0",
     "es6-promise": "^4.2.8",
     "how-to-npm": "^2.5.1",
