@@ -7,7 +7,7 @@
     "async-you": "async-you",
     "learnyounode": "learnyounode",
     "promise-it-wont-hurt": "promise-it-wont-hurt",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "stream-adventure": "stream-adventure"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
     "es6-promise": "^4.2.8",
     "learnyounode": "^4.2.2",
     "node-fetch": "^2.6.1",
-    "promise-it-wont-hurt": "^1.1.3"
+    "promise-it-wont-hurt": "^1.1.3",
+    "stream-adventure": "^4.3.0"
   }
 }
