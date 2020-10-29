@@ -25,6 +25,7 @@
     "learnyounode": "^4.2.2",
     "node-fetch": "^2.6.1",
     "promise-it-wont-hurt": "^1.1.3",
+    "split2": "^3.2.2",
     "stream-adventure": "^4.3.0",
     "through2": "^4.0.2"
   }
