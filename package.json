@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/ymedlop/jsnad-workshops#readme",
   "dependencies": {
+    "@workshoppers/scope-chains-closures": "^1.0.5",
     "async-you": "^2.0.0",
     "concat-stream": "^2.0.0",
     "es6-promise": "^4.2.8",
