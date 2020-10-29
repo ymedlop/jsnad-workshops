@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "async-you": "async-you",
+    "how-to-npm": "how-to-npm",
     "learnyounode": "learnyounode",
     "promise-it-wont-hurt": "promise-it-wont-hurt",
     "stream-adventure": "stream-adventure"
