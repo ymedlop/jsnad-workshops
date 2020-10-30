@@ -24,3 +24,7 @@ Preparing myself for for the NodeJS certification exam - Application Developer (
 
 1. Install [Node.js](http://nodejs.org/)
 2. Run `npm i`
+
+## Other Links
+*[Node-Cookbook](https://github.com/ymedlop/Node-Cookbook)
+*[JSNAD-Labs](https://github.com/ymedlop/jsnad-labs)
