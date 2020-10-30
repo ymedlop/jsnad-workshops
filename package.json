@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "async-you": "async-you",
+    "bug-clinic": "bug-clinic",
     "how-to-npm": "how-to-npm",
     "learnyounode": "learnyounode",
     "promise-it-wont-hurt": "promise-it-wont-hurt",
