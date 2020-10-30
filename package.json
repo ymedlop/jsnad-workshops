@@ -8,6 +8,7 @@
     "how-to-npm": "how-to-npm",
     "learnyounode": "learnyounode",
     "promise-it-wont-hurt": "promise-it-wont-hurt",
+    "scope-chains-closures": "scope-chains-closures",
     "stream-adventure": "stream-adventure"
   },
   "repository": {
