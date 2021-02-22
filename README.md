@@ -1,5 +1,5 @@
 # NODE.JS APPLICATION DEVELOPER CERTIFICATION (JSNAD)
-Preparing myself for for the NodeJS certification exam - Application Developer (JSNAD).
+Preparing myself for the NodeJS certification exam - Application Developer (JSNAD).
 
 ## Requirements
 1. Install [Node.js](http://nodejs.org/)
