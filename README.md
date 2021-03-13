@@ -1,3 +1,5 @@
+**[PASSED!](https://www.youracclaim.com/badges/aff34c3c-ca64-48a9-bc07-18d4cbd221d4/)**
+
 # NODE.JS APPLICATION DEVELOPER CERTIFICATION (JSNAD)
 Preparing myself for the NodeJS certification exam - Application Developer (JSNAD).
 
